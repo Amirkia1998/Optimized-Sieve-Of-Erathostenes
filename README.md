@@ -57,3 +57,7 @@ or simply by opening an issue here on Github.
 
 - [@Amirkia1998](https://github.com/Amirkia1998)
 
+## Keywrods
+prime numbers, find prime numbers, sieve, sieve of erathostenes, SoE, 
+optimized, optimized sieve, optimized sieve of erathostenes, manipulated sieve, 
+manipulated sieve of erathostenes, O(n), O(n) time complexity
